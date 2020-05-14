@@ -21,3 +21,4 @@
 ![error](https://github.com/kieranheffernan/week-2/blob/master/error2.PNG)
 
   * have to invoke wget using **wget.exe** not just wget
+* R Studio won't download
