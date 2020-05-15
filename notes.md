@@ -17,8 +17,12 @@
 
 ## Problems
 * wget isn't downloading anything
+  * have to invoke wget using **wget.exe** not just wget
 
 ![error](https://github.com/kieranheffernan/week-2/blob/master/error2.PNG)
 
-  * have to invoke wget using **wget.exe** not just wget
 * R Studio won't download
+  * Must download from web, not Anaconda
+* Need to download Rtools
+  * Including putting Rtools on the PATH by running `writeLines('PATH="${RTOOLS40_HOME}\\usr\\bin;${PATH}"', con = "~/.Renviron")` in Rstudio
+![Rtools](https://github.com/kieranheffernan/week-2/blob/master/rtools.PNG)
