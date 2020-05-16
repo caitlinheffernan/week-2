@@ -8,7 +8,7 @@ That being said, the ethics of crowdsourcing isn't something I had previously co
 
 **Resources at Carleton**
 
-I've never really looked at what kind of resources Carleton gives us access to besides academic journal articles and newspaper databases. But just now I looked for what kind of historical/archival resources we have access to and there's quite a few. They all seem fairly straightforward in terms of getting them in readable formats. The main barrier to me would be the sheer volume of databases and archives one can go through. Sometimes the names of the collections aren't super indicative of what their content actually is.
+I've never really looked at what kind of resources Carleton gives us access to besides academic journal articles and newspaper databases. But just now I looked for what kind of historical/archival resources we have access to and there's quite a few. They all seem fairly straightforward in terms of getting them in readable formats. The main barrier to me would be the sheer volume of databases and archives one can go through. Sometimes the names of the collections aren't super indicative of what their content actually is. I don't think there's an easy way to search through all of these databases at once. So it could be tedious to go through everything that sounds relevant. 
 
 **Where do I fit in the digital history machine?**
 
